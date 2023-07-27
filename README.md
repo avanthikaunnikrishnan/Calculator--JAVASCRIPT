@@ -1,2 +1,2 @@
 # Calculator--JAVASCRIPT
-its a simple calculator by using JAVASCRIPT language.
+it's a simple calculator using JAVASCRIPT.
